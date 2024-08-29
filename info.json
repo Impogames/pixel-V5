@@ -1,17 +1,17 @@
 {
     "OWNER_IDS": [
-        893512542826135633
+        id
     ],
-    "TOKEN": "MTI3NTM4MjM3MzI0ODQwMTQ5MQ.GL46bg.s-fj0e9NjPhpK5a4MsQ_gety-1EmpWZ7MKjnPw",
+    "TOKEN": "",
     "BotName": "Pixel",
-    "serverLink": "https://discord.gg/GwnhZuF4bW",
-    "wh_cl": "https://discord.com/api/webhooks/1277563517947609118/o0d-el21A3xoVQzHF1kOcwrn9MOct4nHyMfTazcnryUId6L4-86nnNBpcOoVnYFFnLw4",
-    "wh_bl": "https://discord.com/api/webhooks/1277563517947609118/o0d-el21A3xoVQzHF1kOcwrn9MOct4nHyMfTazcnryUId6L4-86nnNBpcOoVnYFFnLw4",
+    "serverLink": "",
+    "wh_cl": "",
+    "wh_bl": "",
     "statusText": ".help",
     "EXTENSIONS": [
         "cogs.events"
     ],
     "np": [
-        893512542826135633
+        id
     ]
 }
